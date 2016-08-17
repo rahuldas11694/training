@@ -1,0 +1,176 @@
+@media only screen and (max-width : 1024px) {
+
+.main {
+    position: relative;
+    top: -92px;
+    left: 15px;
+    background-color: white;
+    width: 999px;
+    margin-bottom: 222px;
+    border-radius: 7px;
+    z-index: 2;
+}
+
+#whtbrdr
+{
+top:8px;
+left:-27px;
+margin-left: 44px;
+margin-right: 7px;
+padding: 0px;
+}
+
+.menu-ulist{
+margin-left: 337px;
+}
+
+.banner-label
+{
+
+left: 22px;
+    top: 151px;
+
+}
+
+.reg-label-text
+{
+left:-166px;
+top:-30px;
+
+}
+
+.ev-name
+{
+margin-left: 58px;
+
+}
+
+.schedule
+{
+top:-347px;
+}
+
+.text-div
+{
+margin-left: 8px;
+
+}
+
+
+
+.text {
+    width: 634px;
+    height: 47px;
+    margin-left: -5px;
+    border-radius: 10px;
+}
+
+
+
+
+
+.sub-but {
+    width: 257px;
+    margin-left: 14px;
+    height: 52px;
+    font-size: 22px;
+       }
+
+
+       .reg-inputs {
+    margin-left: -24px;
+}
+.reg-li
+{
+margin-top: -18px;
+
+}
+
+.button
+{
+
+border-radius: 5px;
+font-size: 17px;
+
+}
+
+
+
+.social-media
+{
+
+	width: 97%;
+    left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+

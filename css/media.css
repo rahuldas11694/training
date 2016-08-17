@@ -1,0 +1,599 @@
+@media only screen and (max-width : 480px) {
+
+.pg-color{
+background-color: grey;
+}
+.icn
+{
+  margin-left: 46px;
+}
+
+
+
+.menu-ulist
+{
+
+display:none;
+
+}
+
+
+.menu-size
+{
+
+display:block;
+max-width: 68px;
+max-height: 37px;
+float:right;
+margin-right:19px;
+margin-top: 7px;
+
+
+
+}
+#whtbrdr
+{
+ position: absolute;
+ top:2px;
+ right:25px;
+ left:-30px;
+ margin-left:39px;
+ padding:3px;
+ background-color: white;
+ border-radius: 7px;
+}
+
+.event
+{
+font-size:29px;
+padding-top: 6px;
+margin-top: 9px;
+margin-bottom: 3px;
+float:left;
+
+
+}
+
+.banner-label
+{
+ position:relative;
+ left:95px;
+ top:95px;
+
+}
+.leftText
+{
+color:white;
+height:70px;
+width: 187px;
+font-size: 10px;
+background-color: black;
+opacity:.6;
+padding:9px;
+border-radius: 16px;
+}
+
+.banner-tabel-text
+{
+left:12px;
+color:yellow;
+top:28px;
+font-size:17px;
+
+}
+
+.reg{
+display: none;
+}
+
+.reg-label-text {
+
+    left: -28px;
+    color: white;
+    top: -171px;
+    font-size: 20px;
+}
+.regpad
+{
+
+  margin-bottom: -61px;
+}
+.regbut2 {
+    padding: 20px;
+    margin-top: 77px;
+}
+.regbut {
+  position:absolute;
+  top: 84px;
+  left:-12px;
+
+    border-radius: 16px;
+    color: white;
+    
+    background-color: #00BFFF;
+     font-size: 19px;
+}
+.bgimg
+{
+
+  height: 294px;
+}
+
+.main
+{
+  position: relative;
+    width: 100%;
+    top: -10px;
+    left: 0px;
+}
+
+
+.ev-name{
+    position: relative;
+    left: 17px;
+}
+.active2
+{
+  margin-left: -52px;
+}
+
+
+
+.mini-schedule
+{
+  position: absolute;
+  top:281px;
+  left:-31px;
+  width:97%;
+}
+.s-ul {
+
+  display: inline;
+    margin-left: -4px;
+    list-style-type: circle;
+  }
+.li-pad
+{
+margin-right: 28px;
+padding:21px;
+
+}
+.content-tabs
+{
+position: relative;
+left:-329px;
+top:8px;
+width:0px;
+}
+.tab-content
+{
+  width:80%;
+position: relative;
+
+top:-78px;
+
+right:0px;
+margin-bottom:173px;
+
+}
+
+
+.active-li2
+{
+
+  margin-right:-72px; 
+  background-color:#efefef;
+}
+.clr
+{
+background-color: #efefef;
+padding-left: 12px;
+padding-right: 18px;
+}
+
+.plus
+{
+margin-left: 379px;
+margin-bottom: 13px;
+margin-top: -10px;
+margin-right: 12px;
+
+}
+
+
+.time
+{
+  padding:0px;
+
+}
+
+
+.heading
+{
+
+  padding-top: 18px;
+  margin-top: 16px;
+  margin-left: 16px;
+}
+
+
+
+.same-line{
+background-color: gray;
+padding-top: 6px;
+padding-bottom:5px;
+}
+
+.vid-para
+{
+
+
+  margin-bottom: 956px;
+  margin-left: 35px;
+}
+
+#video-para
+{
+width: 71%;
+top:11px;
+left:43px;
+margin-right:0px;
+margin-bottom: 4px;
+}
+
+.space {
+    margin-top: 8px;
+    margin-right: 0px;
+}
+.hr-line
+{
+    margin-right: 22px;
+    margin-left: 22px;
+}
+
+.iframe {
+    width: 338px;
+    height: 215px;
+    margin-left: 20px
+    }
+
+    .h2-right
+    {
+     margin-right: 46px;
+     font-size: 37px;
+     margin-top: -5px;
+
+
+    }
+    .pic-para
+    {
+
+      margin-top: 30px;
+      margin-right: -129px;
+    }
+   
+
+   .pic-size{ height: 230px;
+    float: right;
+    margin-top: -261px;
+    margin-right: 20px;
+    width: 432px;
+    margin-bottom: 0px;
+  }
+
+.photos
+{
+  margin-top: 118px;
+
+}
+.pic-content
+{
+margin-top: 8px;
+font-size: 19px;
+margin-bottom: 295px;
+
+
+}
+
+.h2-left
+{
+  margin-left: 37px;
+  font-size: 29px;
+}
+.text-div {
+
+    padding: 5px;
+    margin-left: 32px;
+    margin-right: 21px;
+
+}
+.text {
+    width: 273px;
+    height: 38px;
+    margin-left: -3px;
+  }
+
+.sub-but {
+    width: 114px;
+    margin-left:13px;
+    height: 37px;
+    font-size: 11px;
+  }
+
+  .subscribe-para {
+    margin-left: 32px;
+    margin-top: 11px;
+  }
+
+  .faces
+  {
+position: relative;
+left:138px;
+
+  }
+
+  .face-margin
+  {
+   padding-right: 47px;
+
+  }
+
+  .circle-img
+  {
+
+width: 104px;
+height: 103px;
+margin-right: 75px;
+
+  }
+
+  .para-face
+  {
+   position: relative;
+   left:-32px;
+   padding-top: 3px;
+
+  }
+
+  .para2-face
+  {
+    padding-top: 13px;
+    padding-bottom: 23px;
+
+  }
+
+.faq
+{
+      margin-left: -383px;
+    margin-top: 86px;
+}
+.faq2 {
+    margin-left: -295px;
+    margin-right: 0px;
+    margin-top: 326px;
+}
+
+
+.faq-pad {
+    margin-right: 20px;
+    margin-left: 18px;
+    margin-bottom: 4px;
+    background-color: #efefef;
+    padding-bottom: 3px;
+  }
+  .faq-plus
+  {
+
+    margin-left: 363px;
+    margin-bottom: 15px;
+    margin-top:   -24px;
+
+  }
+.partner-ul {
+    margin-top: 0px;
+    margin-left: 15px;
+}
+.partner-li {
+    margin-right: 14px;
+}
+
+
+.partner-img {
+    max-width: 76px;
+    max-height: 104px;
+}
+.hidden-items
+{
+
+display: none;
+
+}
+.block
+{
+
+
+
+}
+#scc
+{
+display:inline;
+
+
+}
+
+.seat
+{
+margin-right: 40px;
+
+}
+
+.sc
+{
+
+  margin-right: 24px;
+}
+
+.table-up {
+    position: absolute;
+    left: 0px;
+    bottom: 896px;
+    margin-left: 115px;
+
+}
+
+.metal {
+    width: 79px;
+    padding: 3px;
+    margin-left: 25px;
+    text-align: center;
+
+    margin-bottom: 2px;
+    border-radius: 3px;
+}
+.table-span {
+    margin-left: 47px;
+}
+
+
+.table-up2 {
+  position: absolute;
+    margin-top: -643px;
+    margin-left: 115px;
+
+}
+
+.table-up3 {
+    margin-left: 115px;
+    margin-top: -349px;
+
+}
+
+#sc
+{
+margin-right: 40px;
+
+}
+
+
+
+.register {
+
+    padding-left: 9px;
+    margin-left: 18px;
+    margin-right: 11px;
+    margin-top: -23px;
+    margin-bottom: -455px;
+}
+.price-li
+{
+
+  width:192px;
+}
+
+
+.reg-inputs
+{
+
+  margin-left: -2px;
+}
+
+.reg-li{
+
+  margin-top: -12px;
+}
+
+.reg-type {
+    height: 48px;
+    width: 106px;
+}
+
+.sel-style , select
+{
+width:119%;
+height: 16%;
+padding-right: 16px;
+padding-bottom: 6px;
+padding-left: 25px;
+margin-right: 3px;
+
+}
+.
+
+
+.button
+{
+height: 46px;
+width: 107px;
+
+}
+
+.location
+{
+  margin-bottom: -131px;
+}
+
+.social-media
+{
+    width: 100%;
+    left: 0px;
+    top: 186px;
+}
+
+
+.social-icons {
+    margin-top: 3px;
+    margin-left: 91px;
+}
+
+
+.social-img {
+    max-width: 31px;
+    padding-left: 22px;
+    margin-top: 33px;
+}
+
+.copy-right {
+   margin-top: 13px;
+    margin-right: 153px;
+}
+
+
+
+#sub-para
+{
+
+    margin-left: 38px;
+    margin-top: 11px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: gray;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Styles */
+}
+
+
